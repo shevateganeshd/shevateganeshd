@@ -1,4 +1,5 @@
 Hi there 👋
+
 Enthusiastic learner, eager to stay updated with the latest IT trends, improve skills, and apply technology to turn innovative ideas into reality.
 
 🔭 I’m currently working as C#.NET Software Engineer
