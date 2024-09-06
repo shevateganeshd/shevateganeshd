@@ -20,8 +20,6 @@ Enthusiastic learner, eager to stay updated with the latest IT trends, improve s
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;"></a>
 </br>
 **Database**
-</br>
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
 
