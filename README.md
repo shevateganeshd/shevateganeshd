@@ -1,4 +1,4 @@
-Hi there 👋
+**Hi there 👋, this is Ganesh Shevate,**
 
 Enthusiastic learner, eager to stay updated with the latest IT trends, improve skills, and apply technology to turn innovative ideas into reality.
 
