@@ -4,7 +4,6 @@ Enthusiastic learner, eager to stay updated with the latest IT trends, improve s
 
 🔭 I’m currently working as C#.NET Software Engineer</br>
 🌱 I’m currently learning C#.NET</br>
-👯 I’m looking to collaborate on ...</br>
 🤔 I’m looking for help with C#.NET.</br>
 💬 Ask me about C#.NET .NET MVC, .NET Core MVC, MS SQL</br>
 📫 How to reach me: shevateganeshd@gmail.com</br>
