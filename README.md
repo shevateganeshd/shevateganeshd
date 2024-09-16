@@ -22,6 +22,8 @@ Enthusiastic learner, eager to stay updated with the latest IT trends, improve s
 **Database**
 </br>
 MS SQL Server
+</br>
+MySQL
 
 
 
