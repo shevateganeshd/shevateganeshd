@@ -21,10 +21,10 @@ Enthusiastic learner, eager to stay updated with the latest IT trends, improve s
 </br>
 **Database**
 </br>
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-MS SQL Server
-</br>
-MySQL
+<a>![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)</a>
+
+<a>![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)</a>
+
 
 
 
