@@ -21,13 +21,13 @@ Enthusiastic learner, eager to stay updated with the latest IT trends, improve s
 </br>
 **Database**
 </br>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL Badge"/>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer nofollow">
+  <img src="https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL Badge"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank">
+<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer nofollow">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
 </a>
-<a href="https://www.postgresql.org/" target="_blank">
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer nofollow">
   <img src="https://img.shields.io/badge/Postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
 </a>
 
